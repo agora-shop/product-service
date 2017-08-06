@@ -1,0 +1,26 @@
+{
+  "name": "product-service",
+  "version": "1.0.0",
+  "description": "Agora product API microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agora-shop/product-service.git"
+  },
+  "keywords": [
+    "product",
+    "agora",
+    "api",
+    "microservice",
+    "shop"
+  ],
+  "author": "Romanas Rodevicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agora-shop/product-service/issues"
+  },
+  "homepage": "https://github.com/agora-shop/product-service#readme"
+}
